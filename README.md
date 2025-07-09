@@ -9,7 +9,7 @@
 
 ## 💫 Hi👋 I am Vinay  :
 
-![Profile Views](https://visitcount.itsvg.in/api?id=VINAYpratapSINGHchauhan&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=VINAYpratapSINGHchauhan&label=Profile%20views&color=0e75b6&style=flat)
 
 🎯 Working on full-stack apps with **Next.js**, **React**, **Node.js**, **PHP**  
 🤝 Open to collaborations on **web apps**, **e-commerce**, and **startup projects**  
