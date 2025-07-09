@@ -9,9 +9,12 @@
 
 ## 💫 Hi👋 I am Vinay  :
 
+![Profile Views](https://visitcount.itsvg.in/api?id=VINAYpratapSINGHchauhan&label=Profile%20Views&color=12&icon=5&pretty=true)
+
 🎯 Working on full-stack apps with **Next.js**, **React**, **Node.js**, **PHP**  
 🤝 Open to collaborations on **web apps**, **e-commerce**, and **startup projects**  
 🌱 Learning **TypeScript**, **Docker**, and **System Design**  
+😁 fun fact- I debug better after a killer leg day. 🦵💻
 
 
 ## 🌐 Socials:
@@ -19,7 +22,7 @@
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -39,7 +42,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
