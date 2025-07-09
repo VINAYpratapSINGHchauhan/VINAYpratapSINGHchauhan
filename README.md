@@ -1,5 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VINAYpratapSINGHchauhan/VINAYpratapSINGHchauhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VINAYpratapSINGHchauhan/VINAYpratapSINGHchauhan/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph"
+    src="https://raw.githubusercontent.com/VINAYpratapSINGHchauhan/VINAYpratapSINGHchauhan/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 💫 About Me:
-<br>🎯 Working on full-stack apps with **Next.js**, **React**, **Node.js**, **PHP**.  <br>🤝 Open to collaborations on **web apps**, **e-commerce**, and **startup projects**  <br>🌱 Learning **TypeScript**, **Docker**, and **System Design**  <br>💬 Ask me about  **PHP-MySQL**, or **Next.js development**
+<br>🎯 Working on full-stack apps with **Next.js**, **React**, **Node.js**, **PHP**.  <br>🤝 Open to collaborations on **web apps**, **e-commerce**, and **startup projects**  <br>🌱 Learning **TypeScript**, **Docker**, and **System Design**  
 
 
 ## 🌐 Socials:
