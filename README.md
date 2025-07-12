@@ -11,6 +11,7 @@
 
 
 🎯 Working on AI driven full-stack apps with **Next.js**, **React**, **Node.js**, **open router AI** and **PHP** 
+
 🤝 Open to collaborations on **web apps**, **e-commerce**, **AI - assitant app ** and **startup projects**  
 🌱 Learning **AI-app work flow**, **TypeScript**, **Docker**, ** and **System Design**  
 😁 fun fact- I debug better after a killer leg day. 🦵💻
