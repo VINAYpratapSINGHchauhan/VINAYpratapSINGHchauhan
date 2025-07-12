@@ -9,10 +9,10 @@
 
 ## 💫 Hi👋 I am Vinay  :
 
-🤝 Open to collaborations on **web apps**, **e-commerce**, **AI - assitant app ** and **startup projects**  
-🎯 Working on AI driven full-stack apps with **Next.js**, **React**, **Node.js**, **open router AI** and **PHP** 
-🌱 Learning **AI-app work flow**, **TypeScript**, **Docker**, ** and **System Design**  
-😁 fun fact- I debug better after a killer leg day. 🦵💻
+🎯 Working on AI driven full-stack apps with **Next.js**, **React**, **Node.js**, **OpenRouter AI** and **PHP** <br>
+🤝 Open to collaborations on **web apps**, **e-commerce**, **AI-assistant apps** and **startup projects** <br>
+🌱 Learning **AI-app workflow**, **TypeScript**, **Docker**, and **System Design** <br>
+😁 Fun fact – I debug better after a killer leg day. 🦵💻
 
 
 ## 🌐 Socials:
