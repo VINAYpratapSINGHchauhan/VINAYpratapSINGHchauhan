@@ -10,9 +10,9 @@
 ## 💫 Hi👋 I am Vinay  :
 
 
-🎯 Working on full-stack apps with **Next.js**, **React**, **Node.js**, **PHP**  
-🤝 Open to collaborations on **web apps**, **e-commerce**, and **startup projects**  
-🌱 Learning **TypeScript**, **Docker**, and **System Design**  
+🎯 Working on AI driven full-stack apps with **Next.js**, **React**, **Node.js**, **PHP** , **OPEN ROUTER AI**  and **DATABASES**
+🤝 Open to collaborations on **web apps**, **e-commerce**, **AI - assitant app ** and **startup projects**  
+🌱 Learning **AI-app work flow**, **TypeScript**, **Docker**, ** and **System Design**  
 😁 fun fact- I debug better after a killer leg day. 🦵💻
 
 
@@ -38,6 +38,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![OpenRouter AI](https://img.shields.io/badge/OpenRouter_AI-%230A0A0A.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
