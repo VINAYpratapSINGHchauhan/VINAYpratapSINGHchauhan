@@ -44,7 +44,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VINAYpratapSINGHchauhan&theme=gruvbox_light&hide_border=false)
+
 
