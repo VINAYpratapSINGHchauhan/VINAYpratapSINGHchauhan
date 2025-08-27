@@ -12,7 +12,7 @@
 🎯 Working on AI driven full-stack apps with **Next.js**, **React**, **Node.js**, **OpenRouter AI** and **PHP** <br>
 🤝 Open to collaborations on **web apps**, **e-commerce**, **AI-assistant apps** and **startup projects** <br>
 😁 Fun fact – can also be your's gym trainer or diet guider. 🦵💻<br>
-📧 gmail - binnu4321vinay@gmail.com
+📧 gmail - vinaypratapsinghchauhan001@gmail.com
 
 
 ## 🌐 Socials:
