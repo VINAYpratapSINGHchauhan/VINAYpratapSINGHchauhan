@@ -9,7 +9,7 @@
 
 ## 💫 Hi👋 I am Vinay  
 
-###A Full Stack Web Developer  
+### A Full Stack Web Developer  
 
 🎯 Working on AI driven Full-stack apps with **Next.js**, **React**, **Node.js**, **OpenRouter AI** and **PHP** <br>
 🤝 Open to collaborations on **web apps**, **e-commerce**, **AI-assistant apps** and **startup projects** <br>
