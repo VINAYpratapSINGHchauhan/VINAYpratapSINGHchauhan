@@ -69,8 +69,6 @@
 </p>
 
 <div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=VINAYpratapSINGHchauhan)  
-✨ *Thanks for stopping by!* ✨  
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:00C9FF&height=120&section=footer&text=Made+with+💻+by+Vinay&fontSize=22&fontColor=fff" />
 </div>
+
