@@ -39,7 +39,7 @@
 
 ---
 
-### 🎨 Fun Touch
+### 📈 Languages Used
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VINAYpratapSINGHchauhan&theme=matrix&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAYpratapSINGHchauhan&layout=compact&theme=radical&langs_count=8" height="200"/>
 </p>
