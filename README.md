@@ -10,7 +10,7 @@
 <!-- Animated Intro -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F71A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vinay;Full+Stack+Developer;AI+Driven+App+Builder;Fitness+Enthusiast+💪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F71A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vinay;Full+Stack+Developer;AI+Driven+web+Builder;Fitness+Enthusiast+💪)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎯 Building **AI-powered full-stack applications** with **Next.js**, **React**, **Node.js**, **OpenRouter AI**, and **PHP**.  
+- 🎯 Building **AI-powered full-stack web applications** with **Next.js**, **React**, **Node.js**, **OpenRouter AI**, and **PHP**.  
 - ☁️ Exploring **Cloud Platforms** like **Oracle Cloud**, deploying projects, and learning scalable architectures.  
 - 🤖 Learning and experimenting with **Machine Learning**, **AI models**, and their real-world applications.  
 - 💡 Continuously improving in **DSA**, **AI/ML**, and **Full-Stack Development**.  
