@@ -27,10 +27,10 @@
 ---
 
 ### 📫 Let's build something innovative together! ✨
-<p align="center">
+<p align="left">
   <a href="mailto:vinaypratapsinghchauhan001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.linkedin.com/in/vinay-pratap-singh-chauhan"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://leetcode.com/u/VinayPratrapSinghChauhan/"><img src="https://skillicons.dev/icons?i=leetcode" width="40" /></a>
+  <a href="https://leetcode.com/u/VinayPratrapSinghChauhan/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="30"/></a>
   <a href="https://www.instagram.com/_vinayy.chauhan_?igsh=am9zYWxvbHh6cTV3"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
 
