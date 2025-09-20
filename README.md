@@ -10,7 +10,7 @@
 <!-- Animated Intro -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F71A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vinay;Full+Stack+Developer;AI+Driven+web+Builder;Fitness+Enthusiast+💪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F71A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vinay;Full+Stack+Developer;Fitness+Enthusiast+💪)](https://git.io/typing-svg)
 
 </div>
 
