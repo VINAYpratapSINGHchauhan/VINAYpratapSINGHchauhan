@@ -16,13 +16,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎯 Building **AI-powered full-stack web applications** with **Next.js**, **React**, **Node.js**, **OpenRouter AI**, and **Firebase**.  
-- ☁️ Exploring **Cloud Platforms** like **Oracle Cloud**, deploying projects, and learning scalable architectures.  
-- 🤖 Learning and experimenting with **Machine Learning**, **AI models**, and their real-world applications.  
-- 💡 Continuously improving in **DSA**, **AI/ML**, and **Full-Stack Development**.  
-- 🤝 Open to collaborations on **Web Apps**, **E-Commerce Platforms**, **AI Assistants**, and **Startup Projects**.  
+-  Building **AI-powered full-stack web applications** with **Next.js**, **React**, **Node.js**, **OpenRouter AI**, and **Firebase**.  
+-  Exploring **Cloud Platforms** like **Oracle Cloud**, deploying projects, and learning scalable architectures.  
+-  Learning and experimenting with **Machine Learning**, **AI models**, and their real-world applications.  
+-  Continuously improving in **DSA**, **AI/ML**, and **Full-Stack Development**.  
+-  Open to collaborations on **Web Apps**, **E-Commerce Platforms**, **AI Assistants**, and **Startup Projects**.  
 
 ---
 
